@@ -1,1 +1,45 @@
-tesdte
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS</title>
+    <style type="text/css">
+
+    body{
+    	  opacity: 0.7;   
+          background-image: url("unicamp.jpg");
+
+    	 }
+
+   p{  
+   	    
+     	text-shadow: red 20px 20px 10px;
+        color: black;
+        font-size: 100px;
+        text-align: center;
+       
+    }
+   
+    a{
+       font-size: 50px;
+       font-family: cursive;
+     }
+
+   list{
+         list-style-type: upper-roman;
+         font-size:30px
+}
+</style>
+</head>
+<body>
+       <p class="p">Projeto Git</p>
+      
+       
+       <a class="a">Comandos usados, aluno 2:</a>
+
+       <list class="list">
+
+          <li> git init</li>
+          <li>
+
+      </list>
+
