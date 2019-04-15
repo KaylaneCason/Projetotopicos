@@ -13,9 +13,9 @@
    p{  
    	    
      	text-shadow: red 20px 20px 10px;
-        color: black;
-        font-size: 100px;
-        text-align: center;
+        color:pink;
+        font-size: 200px;
+        text-align: left;
        
     }
    
